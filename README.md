@@ -444,7 +444,7 @@
 | 5 | political | /pəˈlɪtɪkəl/ | /pəˈlɪtəkəl/ | 🗳️🏛️ | 政治的 | 形容词 | ★★★☆☆ | She has a strong interest in political affairs. | 她对政治事务有浓厚的兴趣。 |
 | 6 | poor | /pʊə/ | /pʊɹ/ | 😔💔 | 贫穷的 | 形容词 | ★★★★☆ | The poor old man couldn't afford basic necessities. | 这个可怜的老人买不起基本生活必需品。 |
 | 7 | possible | /ˈpɒsəbəl/ | /ˈpɑsəbəl/ | 🤔🔍 | 可能的 | 形容词 | ★★★☆☆ | Is it possible to learn a new language in a month? | 一个月内学会一门新语言可能吗？ |
-| 8 | present | /ˈprezənt/ | /ˈpɹɛzənt/ | 🎁🎉 | 现在的 | 形容词 | ★★★☆☆ | I'm not available at the present moment. | 我现在不方便。 |
+| 8 | present | /ˈprezənt/ | /ˈpɹɛzənt/ | 🎁🎉 | 现在的/ | 形容词/名词 | ★★★☆☆ | I'm not available at the present moment. | 我现在不方便。 |
 | 9 | private | /ˈpraɪvət/ | /ˈpɹaɪvət/ | 🔒🤐 | 私人的 | 形容词 | ★★★☆☆ | Please keep this information private. | 请保密这些信息。 |
 | 10 | probable | /ˈprɒbəbəl/ | /ˈpɹɑbəbəl/ | 🤔🔮 | 可能的 | 形容词 | ★★☆☆☆ | It's probable that it will rain tomorrow. | 明天可能会下雨。 |
 | 11 | quick | /kwɪk/ | /kwɪk/ | ⚡🏃 | 快的 | 形容词 | ★★★★☆ | He was quick to respond to my request. | 他对我的请求反应很快。 |
@@ -673,4 +673,86 @@
 | 128 | barely | /ˈbeəli/ | /ˈbɛɹli/ | 🫥 | 几乎不 | 副词 | ★★★☆☆ | I can barely hear you. | 我几乎听不见你说话。 |
 
 ###补充
-ocean、incredibly、stunning、vase、major、spotlessly、wiring、race、restaurant、achieved、strands、curtain、loosely、rod、diet、peak、stretch、apartment、rent、villa、wild、condiment、chopsticks、chili、napkin、pepper、garlic、onion、minced、mild、flake
+| 序号 | 单词 | 英式音标 | 美式音标 | Emoji | 翻译 | 词性 | 使用频率 | 例句 | 例句翻译 |
+| ---- | --------- | -------- | -------- | ----- | ------ | -------- | -------- | -------------------------------------- | -------------------------------------- |
+| 1 | ocean | /ˈəʊʃən/ | /ˈoʊʃən/ | 🌊 | 海洋 | 名词 | ★★★★☆ | The ocean is home to many kinds of fish. | 海洋是许多鱼类的家园。 |
+| 2 | incredibly | /ɪnˈkredəbli/ | /ɪnˈkrɛdəbli/ | ✨ | 难以置信地 | 副词 | ★★★☆☆ | The show was incredibly funny. | 这场演出好笑极了。 |
+| 3 | stunning | /ˈstʌnɪŋ/ | /ˈstʌnɪŋ/ | 🤩 | 惊艳的 | 形容词 | ★★★☆☆ | The view from the top of the tower is stunning. | 塔顶的景色令人惊艳。 |
+| 4 | vase | /vɑːz/ | /veɪs/ | 🏺 | 花瓶 | 名词 | ★★☆☆☆ | She put fresh flowers in the vase. | 她把鲜花插进花瓶里。 |
+| 5 | major | /ˈmeɪdʒə/ | /ˈmeɪdʒər/ | 🎯 | 主要的 | 形容词 | ★★★★☆ | Traffic is a major problem in big cities. | 交通是大城市的主要问题。 |
+| 6 | spotlessly | /ˈspɒtləsli/ | /ˈspɑtləsli/ | 🧼✨ | 一尘不染地 | 副词 | ★★☆☆☆ | The kitchen was spotlessly clean. | 厨房一尘不染。 |
+| 7 | wiring | /ˈwaɪərɪŋ/ | /ˈwaɪərɪŋ/ | 🔌 | 电线线路 | 名词 | ★★☆☆☆ | The old house needs new wiring. | 这栋老房子需要更换电线。 |
+| 8 | race | /reɪs/ | /reɪs/ | 🏁 | 比赛 | 名词/动词 | ★★★☆☆ | She won the race by two seconds. | 她以两秒的优势赢得了比赛。 |
+| 9 | restaurant | /ˈrestərɒnt/ | /ˈrɛstərɑnt/ | 🍽️ | 餐馆 | 名词 | ★★★★☆ | We had dinner at a small restaurant. | 我们在一家小餐馆吃了晚饭。 |
+| 10 | achieved | /əˈtʃiːvd/ | /əˈtʃivd/ | 🏆 | 实现 | 动词 | ★★★☆☆ | He achieved his goal of losing ten kilos. | 他实现了减掉十公斤的目标。 |
+| 11 | strands | /strændz/ | /strændz/ | 💇 | 缕 | 名词 | ★★☆☆☆ | A few strands of hair fell over her eyes. | 几缕头发垂在她眼前。 |
+| 12 | curtain | /ˈkɜːtən/ | /ˈkərtən/ | 🪟 | 窗帘 | 名词 | ★★★☆☆ | She opened the curtain to let in the light. | 她拉开窗帘让阳光照进来。 |
+| 13 | loosely | /ˈluːsli/ | /ˈlusli/ | 🧣 | 宽松地 | 副词 | ★★★☆☆ | He tied the scarf loosely around his neck. | 他把围巾松松地围在脖子上。 |
+| 14 | rod | /rɒd/ | /rɑd/ | 🎣 | 竿 | 名词 | ★★☆☆☆ | He bought a new fishing rod. | 他买了一根新鱼竿。 |
+| 15 | diet | /ˈdaɪət/ | /ˈdaɪət/ | 🥗 | 饮食 | 名词 | ★★★☆☆ | A balanced diet keeps you healthy. | 均衡的饮食让你保持健康。 |
+| 16 | peak | /piːk/ | /pik/ | ⛰️ | 顶峰 | 名词 | ★★★☆☆ | They finally reached the peak of the mountain. | 他们终于到达了山顶。 |
+| 17 | stretch | /stretʃ/ | /strɛtʃ/ | 🤸 | 伸展 | 动词/名词 | ★★★☆☆ | Remember to stretch before you run. | 跑步前记得做伸展运动。 |
+| 18 | apartment | /əˈpɑːtmənt/ | /əˈpɑrtmənt/ | 🏢 | 公寓 | 名词 | ★★★★☆ | They rent a small apartment near the station. | 他们在车站附近租了一间小公寓。 |
+| 19 | rent | /rent/ | /rɛnt/ | 💰 | 租金 | 名词/动词 | ★★★☆☆ | The rent is due at the start of each month. | 租金在每个月初到期。 |
+| 20 | villa | /ˈvɪlə/ | /ˈvɪlə/ | 🏡 | 别墅 | 名词 | ★★☆☆☆ | They spent the summer in a seaside villa. | 他们在海边别墅度过了夏天。 |
+| 21 | wild | /waɪld/ | /waɪld/ | 🦁 | 野生的 | 形容词 | ★★★☆☆ | Wild animals live deep in the forest. | 野生动物生活在森林深处。 |
+| 22 | condiment | /ˈkɒndɪmənt/ | /ˈkɑndəmənt/ | 🧂 | 调味品 | 名词 | ★★☆☆☆ | Please pass the condiments. | 请把调味品递过来。 |
+| 23 | chopsticks | /ˈtʃɒpstɪks/ | /ˈtʃɑpstɪks/ | 🥢 | 筷子 | 名词 | ★★★☆☆ | Can you eat with chopsticks? | 你会用筷子吃饭吗？ |
+| 24 | chili | /ˈtʃɪli/ | /ˈtʃɪli/ | 🌶️ | 辣椒 | 名词 | ★★★☆☆ | I added some chili to the sauce. | 我在酱汁里加了些辣椒。 |
+| 25 | napkin | /ˈnæpkɪn/ | /ˈnæpkɪn/ | 🧻 | 餐巾 | 名词 | ★★★☆☆ | She wiped her mouth with a napkin. | 她用纸巾擦了擦嘴。 |
+| 26 | pepper | /ˈpepə/ | /ˈpɛpər/ | 🫑 | 胡椒 | 名词 | ★★★☆☆ | Add a little pepper to the soup. | 在汤里加一点胡椒。 |
+| 27 | garlic | /ˈɡɑːlɪk/ | /ˈɡɑrlɪk/ | 🧄 | 大蒜 | 名词 | ★★★☆☆ | This dish smells strongly of garlic. | 这道菜有很浓的大蒜味。 |
+| 28 | onion | /ˈʌnjən/ | /ˈʌnjən/ | 🧅 | 洋葱 | 名词 | ★★★☆☆ | She chopped an onion for the salad. | 她切了一个洋葱做沙拉。 |
+| 29 | minced | /mɪnst/ | /mɪnst/ | 🥩 | 剁碎的 | 形容词 | ★★☆☆☆ | The recipe calls for minced beef. | 这个食谱需要牛肉末。 |
+| 30 | mild | /maɪld/ | /maɪld/ | 😊 | 温和的 | 形容词 | ★★★☆☆ | This curry is quite mild. | 这种咖喱味道很温和。 |
+| 31 | flake | /fleɪk/ | /fleɪk/ | ❄️ | 薄片 | 名词 | ★★☆☆☆ | A flake of snow landed on her nose. | 一片雪花落在她的鼻子上。 |
+| 32 | podcast | /ˈpɒdkɑːst/ | /ˈpɑdkæst/ | 🎙️ | 播客 | 名词 | ★★★☆☆ | I listen to a podcast on my way to work. | 我在上班路上听播客。 |
+| 33 | booth | /buːð/ | /buθ/ | 📞 | 小隔间 | 名词 | ★★☆☆☆ | He sat in a booth by the window. | 他坐在靠窗的卡座里。 |
+| 34 | immigrant | /ˈɪmɪɡrənt/ | /ˈɪmɪɡrənt/ | 🧳 | 移民 | 名词 | ★★★☆☆ | The city welcomes immigrants from many countries. | 这座城市欢迎来自许多国家的移民。 |
+| 35 | afford | /əˈfɔːd/ | /əˈfɔrd/ | 💸 | 负担得起 | 动词 | ★★★☆☆ | I can't afford a new car right now. | 我现在买不起新车。 |
+| 36 | necessity | /nəˈsesəti/ | /nəˈsɛsəti/ | 📦 | 必需品 | 名词 | ★★★☆☆ | Water is a basic necessity of life. | 水是生活的基本必需品。 |
+| 37 | concur | /kənˈkɜː/ | /kənˈkɜr/ | 🤝 | 同意 | 动词 | ★★☆☆☆ | I concur with your opinion. | 我同意你的观点。 |
+| 38 | respond | /rɪˈspɒnd/ | /rɪˈspɑnd/ | 💬 | 回应 | 动词 | ★★★☆☆ | She didn't respond to my message. | 她没有回复我的消息。 |
+| 39 | basis | /ˈbeɪsɪs/ | /ˈbeɪsɪs/ | 🧱 | 基础 | 名词 | ★★★☆☆ | We meet on a weekly basis. | 我们每周见一次面。 |
+| 40 | competition | /ˌkɒmpəˈtɪʃən/ | /ˌkɑmpəˈtɪʃən/ | 🏆 | 比赛 | 名词 | ★★★☆☆ | She won first prize in the competition. | 她在比赛中获得了一等奖。 |
+| 41 | surface | /ˈsɜːfɪs/ | /ˈsərfɪs/ | 🪞 | 表面 | 名词 | ★★★☆☆ | The surface of the lake was very calm. | 湖面非常平静。 |
+| 42 | towards | /təˈwɔːdz/ | /təˈwɔrdz/ | 🚶 | 朝向 | 介词 | ★★★★☆ | He walked towards the door. | 他朝门口走去。 |
+| 43 | startled | /ˈstɑːtəld/ | /ˈstɑrtəld/ | 😲 | 受惊的 | 形容词 | ★★★☆☆ | The loud noise startled the cat. | 巨大的响声吓了猫一跳。 |
+| 44 | surprised | /səˈpraɪzd/ | /sərˈpraɪzd/ | 😮 | 惊讶的 | 形容词 | ★★★★☆ | I was surprised to see her at the party. | 在聚会上见到她，我很惊讶。 |
+| 45 | noise | /nɔɪz/ | /nɔɪz/ | 🔊 | 噪音 | 名词 | ★★★☆☆ | The noise from the street kept me awake. | 街上的噪音让我无法入睡。 |
+| 46 | parcel | /ˈpɑːsəl/ | /ˈpɑrsəl/ | 📦 | 包裹 | 名词 | ★★★☆☆ | A parcel arrived for you this morning. | 今天早上有一个你的包裹。 |
+| 47 | courier | /ˈkʊriə/ | /ˈkʊriər/ | 🚚 | 快递员 | 名词 | ★★★☆☆ | The courier delivered the package on time. | 快递员准时送来了包裹。 |
+| 48 | track | /træk/ | /træk/ | 🛤️ | 跟踪 | 名词/动词 | ★★★☆☆ | You can track your order online. | 你可以在网上跟踪订单。 |
+| 49 | lid | /lɪd/ | /lɪd/ | 🫙 | 盖子 | 名词 | ★★★☆☆ | Put the lid back on the jar. | 把罐子的盖子盖回去。 |
+| 50 | bottle | /ˈbɒtəl/ | /ˈbɑtəl/ | 🍾 | 瓶子 | 名词 | ★★★☆☆ | She filled the bottle with water. | 她把瓶子装满了水。 |
+| 51 | talent | /ˈtælənt/ | /ˈtælənt/ | 🎭 | 天赋 | 名词 | ★★★☆☆ | He has a talent for music. | 他有音乐天赋。 |
+| 52 | scene | /siːn/ | /sin/ | 🎬 | 场景 | 名词 | ★★★☆☆ | The movie has an amazing opening scene. | 这部电影的开场场景非常精彩。 |
+| 53 | bench | /bentʃ/ | /bɛntʃ/ | 🪑 | 长椅 | 名词 | ★★★☆☆ | They sat on a bench in the park. | 他们坐在公园的长椅上。 |
+| 54 | lay | /leɪ/ | /leɪ/ | 🛏️ | 放置 | 动词 | ★★★☆☆ | Lay the book on the table. | 把书放在桌子上。 |
+| 55 | greasy | /ˈɡriːsi/ | /ˈɡrisi/ | 🍟 | 油腻的 | 形容词 | ★★★☆☆ | The pizza was too greasy for me. | 这个披萨对我来说太油腻了。 |
+| 56 | toner | /ˈtəʊnə/ | /ˈtoʊnər/ | 🧴 | 爽肤水 | 名词 | ★★☆☆☆ | Apply toner after washing your face. | 洗脸后涂上爽肤水。 |
+| 57 | gentle | /ˈdʒentəl/ | /ˈdʒɛntəl/ | 🕊️ | 温柔的 | 形容词 | ★★★☆☆ | Be gentle with the baby. | 对宝宝要温柔。 |
+| 58 | cotton | /ˈkɒtən/ | /ˈkɑtən/ | ☁️ | 棉花 | 名词 | ★★★☆☆ | This shirt is made of pure cotton. | 这件衬衫是纯棉的。 |
+| 59 | ingredient | /ɪnˈɡriːdiənt/ | /ɪnˈɡridiənt/ | 🧂 | 配料 | 名词 | ★★★☆☆ | Mix all the ingredients in a bowl. | 把所有的配料放在碗里搅拌。 |
+| 60 | pore | /pɔː/ | /pɔr/ | 🕳️ | 毛孔 | 名词 | ★★☆☆☆ | Steam helps open up your pores. | 蒸汽有助于打开毛孔。 |
+| 61 | saturate | /ˈsætʃəreɪt/ | /ˈsætʃəreɪt/ | 💦 | 浸透 | 动词 | ★★☆☆☆ | The heavy rain saturated the ground. | 大雨浸透了地面。 |
+| 62 | pleasant | /ˈplezənt/ | /ˈplɛzənt/ | 😊 | 令人愉快的 | 形容词 | ★★★☆☆ | We had a pleasant evening together. | 我们一起度过了一个愉快的夜晚。 |
+| 63 | dictator | /dɪkˈteɪtə/ | /ˈdɪkteɪtər/ | 👑 | 独裁者 | 名词 | ★★☆☆☆ | The country was ruled by a dictator. | 这个国家曾被一个独裁者统治。 |
+| 64 | accuse | /əˈkjuːz/ | /əˈkjuz/ | ⚖️ | 指控 | 动词 | ★★★☆☆ | They accused him of stealing. | 他们指控他偷窃。 |
+| 65 | spread | /spred/ | /sprɛd/ | 🍞 | 涂抹 | 动词 | ★★★☆☆ | Spread the butter on the bread. | 把黄油涂在面包上。 |
+| 66 | rumour | /ˈruːmə/ | /ˈrumər/ | 🗣️ | 谣言 | 名词 | ★★★☆☆ | There is a rumour that he is leaving the company. | 有传言说他要离开公司。 |
+| 67 | regret | /rɪˈɡret/ | /rɪˈɡrɛt/ | 😔 | 后悔 | 动词/名词 | ★★★☆☆ | I regret not studying harder at school. | 我后悔上学时没有更努力学习。 |
+| 68 | career | /kəˈrɪə/ | /kəˈrɪr/ | 💼 | 职业 | 名词 | ★★★☆☆ | She chose a career in medicine. | 她选择了医学职业。 |
+| 69 | lose | /luːz/ | /luz/ | ❌ | 失去 | 动词 | ★★★★☆ | Don't lose your keys again. | 别再弄丢钥匙了。 |
+| 70 | screw | /skruː/ | /skru/ | 🔩 | 螺丝 | 名词/动词 | ★★★☆☆ | Tighten the screw with a screwdriver. | 用螺丝刀拧紧螺丝。 |
+| 71 | tighten | /ˈtaɪtən/ | /ˈtaɪtən/ | 🔧 | 拧紧 | 动词 | ★★★☆☆ | Tighten the lid before shaking the bottle. | 摇动瓶子前先拧紧盖子。 |
+| 72 | liking | /ˈlaɪkɪŋ/ | /ˈlaɪkɪŋ/ | ❤️ | 喜爱 | 名词 | ★★★☆☆ | The new design is to my liking. | 这个新设计很合我的心意。 |
+| 73 | ceiling | /ˈsiːlɪŋ/ | /ˈsilɪŋ/ | 🏠 | 天花板 | 名词 | ★★★☆☆ | The ceiling of the old house is very high. | 这栋老房子的天花板很高。 |
+| 74 | paint | /peɪnt/ | /peɪnt/ | 🎨 | 油漆 | 动词/名词 | ★★★☆☆ | We painted the walls light blue. | 我们把墙刷成了浅蓝色。 |
+| 75 | approach | /əˈprəʊtʃ/ | /əˈproʊtʃ/ | 🚶 | 方法 | 动词/名词 | ★★★☆☆ | We need a new approach to this problem. | 我们需要新的方法来解决这个问题。 |
+| 76 | positive | /ˈpɒzətɪv/ | /ˈpɑzətɪv/ | 👍 | 积极的 | 形容词 | ★★★★☆ | She has a positive attitude towards life. | 她对生活持积极态度。 |
+| 77 | negative | /ˈneɡətɪv/ | /ˈnɛɡətɪv/ | 👎 | 消极的 | 形容词 | ★★★☆☆ | Stop thinking in such a negative way. | 别再用这么消极的方式思考。 |
+| 78 | mayor | /meə/ | /ˈmeɪər/ | 🏛️ | 市长 | 名词 | ★★★☆☆ | The mayor gave a speech at the ceremony. | 市长在典礼上发表了演讲。 |
+| 79 | texture | /ˈtekstʃə/ | /ˈtɛkstʃər/ | 🧵 | 质地 | 名词 | ★★★☆☆ | I like the smooth texture of this cream. | 我喜欢这款面霜光滑的质地。 |
+| 80 | whisper | /ˈwɪspə/ | /ˈwɪspər/ | 🤫 | 低语 | 动词/名词 | ★★★☆☆ | She whispered something in his ear. | 她在他耳边低声说了些什么。 |
+| 81 | instruction | /ɪnˈstrʌkʃən/ | /ɪnˈstrʌkʃən/ | 📋 | 说明 | 名词 | ★★★☆☆ | Read the instructions before using the machine. | 使用机器前请先阅读说明。 |
